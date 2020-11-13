@@ -121,7 +121,7 @@ return
 ::sss::shutdown /s /f /t 0
 
 ; ============================== GIT-RELATED ==============================
-::ga::git add
+::ga::git add -u
 ::gd::git diff --staged
 ::gm::git commit -m 
 ::gn::git log -n
@@ -136,5 +136,5 @@ return
 ::rg::npm run build && npm run generate
 
 ; ============================== CHOCOLATEY-RELATED ==============================
-::ci::choco install --yes
+::ci::choco install --yes --force
 ::cu::choco upgrade all --yes
