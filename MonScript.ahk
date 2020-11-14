@@ -130,7 +130,7 @@ return
 ::gs::git status
 
 ; ============================== JUNIT-RELATED ==============================
-::aaa::// Arrange{enter}// Act{enter}// Assert
+::aaa::// Arrange{enter}{enter}// Act{enter}{enter}// Assert{enter}
 
 ; ============================== FIREBASE-RELATED ==============================
 ::fd::firebase deploy
