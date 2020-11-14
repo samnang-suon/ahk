@@ -129,6 +129,9 @@ return
 ::gr::git restore 
 ::gs::git status
 
+; ============================== JUNIT-RELATED ==============================
+::aaa::// Arrange{enter}// Act{enter}// Assert
+
 ; ============================== FIREBASE-RELATED ==============================
 ::fd::firebase deploy
 
