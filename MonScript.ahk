@@ -121,13 +121,25 @@ return
 ::sss::shutdown /s /f /t 0
 
 ; ============================== GIT-RELATED ==============================
+; OFFICIAL DOCS
+; https://git-scm.com/docs
+===========================================================================
 ::ga::git add -u
+::gb::git branch
+::gc::git checkout
 ::gd::git diff --staged
+::gi::git init
 ::gm::git commit -m 
 ::gn::git log -n
 ::gp:: git push origin master
 ::gr::git restore 
 ::gs::git status
+
+; https://git-scm.com/docs/git-merge
+; git merge <source-branch>
+
+; https://git-scm.com/docs/git-rm
+; git rm
 
 ; ============================== JUNIT-RELATED ==============================
 ::aaa::// Arrange{enter}{enter}// Act{enter}{enter}// Assert{enter}
