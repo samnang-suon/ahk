@@ -83,7 +83,8 @@ return
 	; Run, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --incognito https://www.proxysite.com/
 	; Run, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --incognito https://torrentz2.eu/
 	; Run, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --incognito https://torrentz2.is
-	Run, C:\Program Files\Google\Chrome\Application\chrome.exe --incognito https://torrentz2.is
+	; Run, C:\Program Files\Google\Chrome\Application\chrome.exe --incognito https://torrentz2.is
+	Run, C:\Program Files\Google\Chrome\Application\chrome.exe
 return
 
 
