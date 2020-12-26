@@ -192,6 +192,7 @@ return
 ; choco install --yes --force notepadplusplus
 ; choco install --yes --force notepadplusplus.install
 ; choco install --yes --force openshot
+; choco install --yes --force postman
 ; choco install --yes --force python
 ; choco install --yes --force python3
 ; choco install --yes --force qbittorrent
