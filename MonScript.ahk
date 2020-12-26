@@ -154,3 +154,48 @@ return
 ; ============================== CHOCOLATEY-RELATED ==============================
 ::ci::choco install --yes --force
 ::cu::choco upgrade all --yes
+::cl::choco list --local
+
+; ============================== MY-CHOCOLATEY-PACKAGES ==============================
+; choco install --yes --force 7zip
+; choco install --yes --force 7zip.install
+; choco install --yes --force audacity
+; choco install --yes --force autohotkey
+; choco install --yes --force autohotkey.install
+; choco install --yes --force bleachbit
+; choco install --yes --force bleachbit.install
+; choco install --yes --force brave
+; choco install --yes --force ccleaner
+; choco install --yes --force cpu-z
+; choco install --yes --force cpu-z.install
+; choco install --yes --force curl
+; choco install --yes --force DotNet4.5
+; choco install --yes --force foxitreader
+; choco install --yes --force git
+; choco install --yes --force git.install
+; choco install --yes --force github-desktop
+; choco install --yes --force GoogleChrome
+; choco install --yes --force gradle
+; choco install --yes --force greenshot
+; choco install --yes --force intellijidea-community
+; choco install --yes --force intellijidea-ultimate
+; choco install --yes --force keepass
+; choco install --yes --force keepass.install
+; choco install --yes --force mpc-hc
+; choco install --yes --force nodejs
+; choco install --yes --force nodejs.install
+; choco install --yes --force notepadplusplus
+; choco install --yes --force notepadplusplus.install
+; choco install --yes --force openshot
+; choco install --yes --force python
+; choco install --yes --force python3
+; choco install --yes --force qbittorrent
+; choco install --yes --force revo-uninstaller
+; choco install --yes --force rufus
+; choco install --yes --force sandboxie
+; choco install --yes --force speccy
+; choco install --yes --force teracopy
+; choco install --yes --force treesizefree
+; choco install --yes --force unchecky
+; choco install --yes --force vcredist-all
+; choco install --yes --force vlc
