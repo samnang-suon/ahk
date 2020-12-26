@@ -205,3 +205,4 @@ return
 ; choco install --yes --force unchecky
 ; choco install --yes --force vcredist-all
 ; choco install --yes --force vlc
+; choco install --yes --force wireshark
