@@ -194,6 +194,7 @@ return
 ; choco install --yes --force rufus
 ; choco install --yes --force sandboxie
 ; choco install --yes --force speccy
+; choco install --yes --force sublimetext2
 ; choco install --yes --force teracopy
 ; choco install --yes --force treesizefree
 ; choco install --yes --force unchecky
