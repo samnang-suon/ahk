@@ -1,3 +1,8 @@
+; *************************************************************************************************
+; To make this script more user-friendly
+; use sublimetext2 with YAML syntax highlighting
+; *************************************************************************************************
+
 ; # = Window Key
 ; ! = Alt
 ; ^ = Ctrl
@@ -45,7 +50,7 @@ return
 	if WinExist("ahk_exe chrome.exe") {
 		msgbox, "CHROME IF"
 		WinActivate ; uses the last found window.
-	} else {		
+	} else {
 		msgbox, "CHROME ELSE"
 		Run, "C:\Program Files\Google\Chrome\Application\chrome.exe"
 	}
@@ -56,7 +61,7 @@ return
 	if WinExist("Messenger - Google Chrome") {
 		msgbox, "CHROME IF"
 		WinActivate ; uses the last found window.
-	} else {		
+	} else {
 		msgbox, "CHROME ELSE"
 		Run, "C:\Program Files\Google\Chrome\Application\chrome.exe"
 	}
