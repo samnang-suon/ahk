@@ -135,8 +135,8 @@ return
 ::gc::git checkout
 ::gd::git diff --staged
 ::gi::git init
+::gl::git log --oneline -n
 ::gm::git commit -m 
-::gn::git log -n
 ::gp:: git push origin master
 ::gr::git restore 
 ::gs::git status
