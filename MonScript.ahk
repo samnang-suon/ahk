@@ -129,6 +129,8 @@ return
 ; ============================== GIT-RELATED ==============================
 ; OFFICIAL DOCS
 ; https://git-scm.com/docs
+; Gitlab SSH Key doc
+; https://docs.gitlab.com/ee/ssh/README.html#adding-an-ssh-key-to-your-gitlab-account
 ===========================================================================
 ::ga::git add -u
 ::gb::git branch
