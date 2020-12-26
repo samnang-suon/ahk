@@ -131,6 +131,8 @@ return
 ; https://git-scm.com/docs
 ; Gitlab SSH Key doc
 ; https://docs.gitlab.com/ee/ssh/README.html#adding-an-ssh-key-to-your-gitlab-account
+; Version Control System (vcs) VS Source Control Management (SCM)
+; https://stackoverflow.com/questions/4127425/whats-the-difference-between-vcs-and-scm
 ===========================================================================
 ::ga::git add -u
 ::gb::git branch
